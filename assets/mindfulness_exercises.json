@@ -1,0 +1,137 @@
+[
+  {
+    "id": "breath_30s_pause",
+    "title": "30‑seconden adempauze",
+    "duration_seconds": 30,
+    "script": [
+      "Adem 4 tellen in, pauze 1, adem 6 tellen uit.",
+      "Herhaal dit 4 keer.",
+      "Zeg zacht in gedachten: 'Hier ben ik.'"
+    ],
+    "tags": ["adem", "korte-pauze", "kalmeren"]
+  },
+  {
+    "id": "physio_sigh",
+    "title": "Fysio‑zucht (3x)",
+    "duration_seconds": 25,
+    "script": [
+      "Twee korte inademingen door de neus (snif + snif).",
+      "Lange uitademing door de mond (zucht).",
+      "Ontspan je schouders. Herhaal 3 keer."
+    ],
+    "tags": ["stress-loslaten", "adem"]
+  },
+  {
+    "id": "grounding_54321",
+    "title": "Aarding 5‑4‑3‑2‑1",
+    "duration_seconds": 60,
+    "script": [
+      "Noem 5 dingen die je ziet.",
+      "Noem 4 dingen die je voelt op je huid of stoel.",
+      "Luister naar 3 geluiden.",
+      "Merk 2 geuren op.",
+      "Noem 1 smaak of gedachte die je loslaat."
+    ],
+    "tags": ["aarding", "focus", "zintuigen"]
+  },
+  {
+    "id": "hand_on_heart_reset",
+    "title": "Hand‑op‑hart reset",
+    "duration_seconds": 60,
+    "script": [
+      "Leg je hand op je borst.",
+      "Adem 5 keer rustig in en uit richting je hand.",
+      "Zeg zacht: 'Het is oké om even te pauzeren.'"
+    ],
+    "tags": ["compassie", "zelfzorg"]
+  },
+  {
+    "id": "mini_body_scan",
+    "title": "Mini‑bodyscan zittend",
+    "duration_seconds": 90,
+    "script": [
+      "Breng aandacht naar je voeten, benen, buik, schouders, kaak.",
+      "Bij elk gebied: ontspan op de uitademing."
+    ],
+    "tags": ["lichaamsbewust", "ontspanning"]
+  },
+  {
+    "id": "box_breathing",
+    "title": "Box breathing (4‑4‑4‑4)",
+    "duration_seconds": 80,
+    "script": [
+      "Adem in 4 tellen in.",
+      "Houd 4 tellen vast.",
+      "Adem 4 tellen uit.",
+      "Houd 4 tellen vast.",
+      "Herhaal 5 rondes."
+    ],
+    "tags": ["focus", "kalmeren", "adem"]
+  },
+  {
+    "id": "eye_relax",
+    "title": "Oog‑ontspanning",
+    "duration_seconds": 45,
+    "script": [
+      "Kijk 10 tellen ver weg.",
+      "Kijk 10 tellen dichtbij.",
+      "Sluit 10 tellen je ogen.",
+      "Herhaal 2 rondes en ontspan het voorhoofd."
+    ],
+    "tags": ["schermpauze", "ontspanning"]
+  },
+  {
+    "id": "gratitude_3",
+    "title": "Dankbaar in 3",
+    "duration_seconds": 60,
+    "script": [
+      "Noem 3 kleine dingen waar je nu dankbaar voor bent.",
+      "Na elke gedachte: 1 bewuste ademhaling, lange uitademing."
+    ],
+    "tags": ["positiviteit", "mindset"]
+  },
+  {
+    "id": "noting_basic",
+    "title": "Noting (etiketteren)",
+    "duration_seconds": 75,
+    "script": [
+      "Merk op wat opkomt.",
+      "Label zacht: 'denken', 'horen', 'voelen'.",
+      "Laat bij de uitademing weer los."
+    ],
+    "tags": ["mindfulness", "gedachten"]
+  },
+  {
+    "id": "mindful_sip",
+    "title": "Mindful slok water",
+    "duration_seconds": 45,
+    "script": [
+      "Neem één slok water.",
+      "Voel temperatuur, textuur, slikbeweging.",
+      "Adem uit en glimlach klein."
+    ],
+    "tags": ["dagelijks", "zintuigen"]
+  },
+  {
+    "id": "micro_walk",
+    "title": "Micro‑wandeling",
+    "duration_seconds": 60,
+    "script": [
+      "Loop 10–20 rustige passen.",
+      "Denk per stap: 'optillen, verplaatsen, neerzetten'.",
+      "Houd schouders laag."
+    ],
+    "tags": ["beweging", "aarding"]
+  },
+  {
+    "id": "standing_tree_light",
+    "title": "Boom‑houding (light)",
+    "duration_seconds": 90,
+    "script": [
+      "Sta heupbreed, knieën zacht, kruin lang.",
+      "Armen rond voor je, alsof je een bal omarmt.",
+      "Adem 8 keer rustig naar de buik."
+    ],
+    "tags": ["chi‑kung", "houding", "stabiel"]
+  }
+]
