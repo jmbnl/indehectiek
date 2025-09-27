@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        (function() {
+            var redirectPath = window.location.pathname + window.location.search;
+            if (redirectPath !== "/" && redirectPath !== "/index.html") {
+                sessionStorage.setItem("redirectPath", redirectPath);
+            }
+            window.location.replace("/index.html");
+        })();
+    </script>
+</head>
+<body>
+</body>
+</html>
